@@ -5,7 +5,7 @@ DATA ANAYLTICS
 
 - Data analytics is the science of analyzing raw data in order to make conclusions about that information. Many of the techniques and processes of data analytics have been automated into mechanical processes and algorithms that work over raw data for human consumption.
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.simplilearn.com%2Fdata-science-vs-big-data-vs-data-analytics-article&psig=AOvVaw0yy9hqfMntCZ_eaVuol2ec&ust=1600537070812000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC4_62f8-sCFQAAAAAdAAAAABAD/200/200)
+![alt text](https://rukminim1.flixcart.com/image/416/416/jwfa5jk0/poster/c/f/2/medium-thought-of-a-p-j-abdul-kalam-paper-poster-op-8548-1218-original-imafh3zmktvqcp3c.jpeg?q=70)
 
 Amazing Facts
 
